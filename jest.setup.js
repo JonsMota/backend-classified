@@ -1,0 +1,1 @@
+process.env.JWT_SECRET = 'segredo_padrao_para_bateria_de_testes_backend'
